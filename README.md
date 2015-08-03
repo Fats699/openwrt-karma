@@ -4,6 +4,8 @@ openwrt-karma
 This is a repo that builds a firmware for a wr703n that has a modified hostapd
 with the karma patch.
 
+Patched hostapd stolen from the WiFi Pineapple project.
+
 Usage
 -----
 
